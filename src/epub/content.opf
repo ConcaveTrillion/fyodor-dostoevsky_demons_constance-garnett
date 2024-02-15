@@ -72,6 +72,7 @@
 		<dc:contributor id="translator-2">S. S. Koteliansky</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Koteliansky, S. S.</meta>
 		<meta property="se:name.person.full-name" refines="#translator-2">Samuel Solomonovich Koteliansky</meta>
+		<meta property="alternate-script" refines="#translator-2" xml:lang="ru">Самуил Соломонович Котелянский</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/S._S._Koteliansky</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n86031769</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
