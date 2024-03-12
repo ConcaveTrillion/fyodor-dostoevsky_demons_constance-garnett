@@ -68,7 +68,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Constance_Garnett</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n50015174</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
-		<meta property="display-seq" refines="#translator-3">1</meta>
+		<meta property="display-seq" refines="#translator-1">1</meta>
 		<dc:contributor id="translator-2">S. S. Koteliansky</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Koteliansky, S. S.</meta>
 		<meta property="se:name.person.full-name" refines="#translator-2">Samuel Solomonovich Koteliansky</meta>
@@ -84,7 +84,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-3">https://en.wikipedia.org/wiki/Virginia_Woolf</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-3">http://id.loc.gov/authorities/names/n79041870</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
-		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-3" scheme="marc:relators">ann</meta>
 		<meta property="display-seq" refines="#translator-3">0</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
